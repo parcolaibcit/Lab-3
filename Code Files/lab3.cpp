@@ -83,7 +83,7 @@ void task3(TRACKMAN_DATA *);
 TRAJECTORY_DATA getTrajectoryData(POINT_XZ*,int);
 double getCd(double,double);
 double getCl(double);
-double getSpin(double,double);//lol
+double getSpin(double,double);
 
 //---------------------------------------------------------------------------------------
 
